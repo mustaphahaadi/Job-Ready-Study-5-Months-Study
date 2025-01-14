@@ -18,9 +18,13 @@ This repository is organized by months, following the roadmap:
 
 
 ├── January # Python Fundamentals & Advanced Concepts
+
 ├── February # Web Development & Databases
+
 ├── March # Advanced Framework & Testing
+
 ├── April # DevOps & Integration
+
 ├── May # Advanced Backend & System Design
 
 
@@ -109,7 +113,7 @@ Each project will be enhanced with:
 
 ## 📚 Learning Resources
 
-The complete list of resources can be found in the [Roadmap](./January/Roadmap) file, including:
+The complete list of resources can be found in the [Roadmap](./Roadmap) file, including:
 - Online Courses
 - Documentation
 - YouTube Channels
