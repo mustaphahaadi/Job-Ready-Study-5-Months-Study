@@ -113,7 +113,7 @@ Each project will be enhanced with:
 
 ## 📚 Learning Resources
 
-The complete list of resources can be found in the [Roadmap](./January/Roadmap) file, including:
+The complete list of resources can be found in the [Roadmap](./Roadmap) file, including:
 - Online Courses
 - Documentation
 - YouTube Channels
