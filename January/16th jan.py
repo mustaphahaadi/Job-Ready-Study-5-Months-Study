@@ -118,3 +118,19 @@ for item in [1, 2, 3]:  # List
 
 for key, value in {"a": 1, "b": 2}.items():  # Dictionary
     print(f"Key: {key}, Value: {value}")
+
+# List Comprehension
+# Traditional for loop
+squares = []
+for x in range(5):
+    squares.append(x**2)
+
+# Same thing as list comprehension
+squares = [x**2 for x in range(5)]
+
+# Else executes when loop completes normally (no break)
+for i in range(5):
+    if i == 10:
+        break
+else:
+    print("Loop completed without break")
